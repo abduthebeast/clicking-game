@@ -1,3 +1,5 @@
+alert("Welcome to THE BEST GAME EVER!!!")
+alert("Click to get cookies")
 let cookies = 0;
 let cookiesPerClick = 1;
 let cookiesPerSecond = 0;
